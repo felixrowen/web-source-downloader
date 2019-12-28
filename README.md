@@ -1,4 +1,3 @@
 # Web Source Downloader
 
-- TO EXECUTE
-node index.js
+RUN => node index.js
